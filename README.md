@@ -1,6 +1,6 @@
 # Chrome OS RMA Shim Bootloader
 
-Shimboot is a collection of scripts for patching a Chrome OS RMA shim to serve as a bootloader for a standard Linux distribution. It allows you to boot a full desktop Debian install on a Chromebook, without needing to unenroll it or modify the firmware.
+Shimboot is a collection of scripts for patching a Chrome OS RMA shim to serve as a bootloader for a standard Linux distribution, That We Will Disguise As Windows 11 With Wine.It allows you to boot a full desktop Debian install on a Chromebook, without needing to unenroll it or modify the firmware.
 
 | <img src="/website/assets/shimboot_demo_1.jpg" alt="Shimboot (KDE) on an HP Chromebook 11 G9 EE." width="400"/> | <img src="/website/assets/shimboot_demo_2.jpg" alt="Shimboot (XFCE) on an Acer Chromebook 311 C722." width="400"/> |  
 | ----- | ----- |
