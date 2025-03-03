@@ -14,7 +14,7 @@ print_help() {
   echo "  data_dir     - The working directory for the scripts. This defaults to ./data"
   echo "  arch         - The CPU architecture to build the shimboot image for. Set this to 'arm64' if you have an ARM Chromebook."
   echo "  release      - Set this to either 'bookworm' or 'unstable' to build for Debian stable/unstable."
-  echo "  distro       - The Linux distro to use. This should be either 'debian', 'ubuntu', or 'alpine'."
+  echo "  distribution - The Linux distro to use. This should be either 'debian', 'ubuntu', or 'alpine'."
 }
 
 assert_root
